@@ -11,7 +11,7 @@ chmod +x install
 
 sh install or ./install
 
-How to use IP-Tracer
+# How to use IP-Tracer
 trace -m to track your own ip address.
 
 trace -t target-ip to track other's ip address for example ip-tracer -t 127.0.0.1
