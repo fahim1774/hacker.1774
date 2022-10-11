@@ -28,4 +28,4 @@ ip-tracer for more information.
 # How to use bombing
 python bombing.py
 
-This tool by Fahim
+# This tool by Fahim
